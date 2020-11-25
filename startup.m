@@ -1,2 +1,2 @@
 %load model%
-Model_Logic
+%Model_Logic
